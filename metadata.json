@@ -1,0 +1,5 @@
+{
+  "name": "Crypto EMA Crossing Bot",
+  "description": "A real-time trading dashboard monitoring EMA 20 and EMA 100 crossovers/touches on a 5-minute timeframe for major crypto perpetual pairs.",
+  "requestFramePermissions": []
+}
